@@ -21,7 +21,7 @@
 
 ## Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/kasoju-vaishnavi6/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/kasoju-vaishnavi6/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vaishnavikasoju07@gmail.com)
 
 
