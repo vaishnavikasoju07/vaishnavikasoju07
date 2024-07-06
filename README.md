@@ -9,14 +9,21 @@
 
 - 🎓 **Bachelor's in Data Science**
 
-- <u>VISUALIZATION TOOLS:</u> **Excel, Tableau, Power BI**
+- ## Tools and Languages
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kasoju-vaishnavi6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kasoju-vaishnavi6/" height="30" width="40" /></a>
-</p>
+- ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+- ![Tableau](https://img.shields.io/badge/-Tableau-F2C811?style=flat-square&logo=Tableau&logoColor=black)
+- ![OracleSQL](https://img.shields.io/badge/-OracleSQL-4479A1?style=flat-square&logo=Oracle&logoColor=red)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=green)
+- ![PowerBI](https://img.shields.io/badge/-PowerBI-21759B?style=flat-square&logo=Powerbi&logoColor=orange)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-Feel free to explore my repositories and reach out for collaboration opportunities!
+
+## Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/kasoju-vaishnavi6/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vaishnavikasoju07@gmail.com)
+
+
+
+Feel free to explore my repositories and reach out for collaboration opportunities!😊
