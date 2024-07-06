@@ -9,7 +9,7 @@
 
 - 🎓 **Bachelor's in Data Science**
 
-- VISUALIZATION TOOLS: **Excel, Tableau, Power BI**
+- <u>VISUALIZATION TOOLS:</u> **Excel, Tableau, Power BI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
