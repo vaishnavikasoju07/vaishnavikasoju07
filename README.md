@@ -13,7 +13,7 @@
 
 - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 - ![Tableau](https://img.shields.io/badge/-Tableau-F2C811?style=flat-square&logo=Tableau&logoColor=black)
-- ![OracleSQL](https://img.shields.io/badge/-OracleSQL-4479A1?style=flat-square&logo=Oracle&logoColor=red)
+- ![mySQL](https://img.shields.io/badge/-mySQL-4479A1?style=flat-square&logo=mysql&logoColor=black)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=green)
 - ![PowerBI](https://img.shields.io/badge/-PowerBI-21759B?style=flat-square&logo=Powerbi&logoColor=orange)
 
