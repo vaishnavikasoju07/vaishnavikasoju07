@@ -26,4 +26,5 @@
 
 
 
-Feel free to explore my repositories and reach out for collaboration opportunities!😊
+
+"You're welcome to explore my repositories and get in touch for collaboration or just to say hi! 😊"
